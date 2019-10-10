@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\2019probazhB\2019probazhB\bin\Debug\2019probazhB.exe.config
+C:\Users\Asus\source\repos\2019probazhB\2019probazhB\bin\Debug\2019probazhB.exe
+C:\Users\Asus\source\repos\2019probazhB\2019probazhB\bin\Debug\2019probazhB.pdb
+C:\Users\Asus\source\repos\2019probazhB\2019probazhB\obj\Debug\2019probazhB.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\2019probazhB\2019probazhB\obj\Debug\2019probazhB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\2019probazhB\2019probazhB\obj\Debug\2019probazhB.exe
+C:\Users\Asus\source\repos\2019probazhB\2019probazhB\obj\Debug\2019probazhB.pdb
